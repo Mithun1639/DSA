@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mithu/OneDrive/Desktop/Final_Codes/BubbleSort",
-      "program": "c:/Users/mithu/OneDrive/Desktop/Final_Codes/BubbleSort/build/Debug/outDebug",
+      "cwd": "c:/Users/mithu/OneDrive/Desktop/Final_Codes/binarySearch",
+      "program": "c:/Users/mithu/OneDrive/Desktop/Final_Codes/binarySearch/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
